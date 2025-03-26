@@ -24,6 +24,9 @@ export default function RootLayout({
 
   return (
     <html lang={i18n.language} suppressHydrationWarning>
+      <head>
+        <link rel="manifest" href="/manifest.json" />
+      </head>
       <body className={inter.className} suppressHydrationWarning>
         <I18nextProvider i18n={i18n}>
           <ThemeProvider
