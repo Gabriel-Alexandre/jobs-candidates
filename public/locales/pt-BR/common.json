@@ -1,0 +1,74 @@
+{
+  "navigation": {
+    "dashboard": "Painel",
+    "jobs": "Vagas",
+    "settings": "Configurações",
+    "notifications": "Notificações",
+    "candidates": "Candidatos"
+  },
+  "auth": {
+    "login": "Entrar",
+    "signup": "Cadastrar",
+    "forgotPassword": "Esqueci a Senha",
+    "email": "E-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirmar Senha",
+    "rememberMe": "Lembrar-me",
+    "submit": "Enviar",
+    "createAccount": "Criar Conta",
+    "alreadyHaveAccount": "Já possui uma conta?",
+    "dontHaveAccount": "Não possui uma conta?",
+    "resetPassword": "Redefinir Senha"
+  },
+  "profile": {
+    "editProfile": "Editar Perfil",
+    "settings": "Configurações",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "logout": "Sair"
+  },
+  "jobs": {
+    "title": "Título",
+    "company": "Empresa",
+    "location": "Localização",
+    "type": "Tipo de Contrato",
+    "salary": "Salário",
+    "category": "Categoria",
+    "status": "Status",
+    "technologies": "Tecnologias",
+    "description": "Descrição",
+    "requirements": "Requisitos",
+    "benefits": "Benefícios",
+    "additionalInfo": "Informações Adicionais",
+    "newJob": "Criar Nova Vaga",
+    "fillDetails": "Preencha os detalhes abaixo para criar uma nova vaga.",
+    "createJob": "Criar Vaga",
+    "selectType": "Selecione o tipo",
+    "selectCategory": "Selecione a categoria",
+    "selectStatus": "Selecione o status",
+    "enterDescription": "Digite a descrição da vaga...",
+    "enterRequirements": "Digite os requisitos (um por linha)...",
+    "enterBenefits": "Digite os benefícios (um por linha)...",
+    "enterAdditionalInfo": "Digite informações adicionais..."
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "viewAs": "Visualizar Como",
+    "recruiter": "Recrutador",
+    "candidate": "Candidato"
+  },
+  "error": {
+    "pageNotFound": "Página Não Encontrada",
+    "pageNotFoundDescription": "Desculpe, não encontramos a página que você está procurando.",
+    "backToHome": "Voltar para o Início"
+  },
+  "validation": {
+    "required": "Este campo é obrigatório",
+    "invalidEmail": "Endereço de e-mail inválido",
+    "passwordMismatch": "As senhas não coincidem",
+    "minLength": "Deve ter pelo menos {{length}} caracteres"
+  }
+}
